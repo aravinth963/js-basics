@@ -1,0 +1,13 @@
+variables:
+
+var,let,const
+
+var:var is a old javascript variable we can redeclare,reassign. it is contain function or global scope.
+
+let:let is new ES6 javascript variable we cannot redeclare.but we can reassign 
+let x = 10;
+let x = 12;
+console.log(x).
+cannot redeclare
+
+cons:it is also new ES6 javascript variable. we cannot redeclare and reassign.it is have a block scope
